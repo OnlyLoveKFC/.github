@@ -1,1 +1,1 @@
-# .github
+# Codebase of OnlyLoveKFC start-up
