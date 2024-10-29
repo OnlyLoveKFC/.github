@@ -1,7 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Welcome to OnlyLoveKFC**
-
--->
+## Welcome to OnlyLoveKFC
